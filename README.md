@@ -5,4 +5,4 @@ username - 'username'
 password - 'password'
 ```
 
-[Demo](https://devdojo.com/go/examples/simple-php-login/)
+Include the `index.php` in your project and give it a go.
